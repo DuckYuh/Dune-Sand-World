@@ -55,8 +55,11 @@ cd build
 
 # 3. Generate Visual Studio project files
 cmake .. -G "Visual Studio 17 2022" -A Win32
+```
 
-### 🧩 Build the Game
+### 🧩 Run the Game
+
+```bash
 # 1. Enter build directory
 cd build
 
@@ -68,3 +71,4 @@ btl3_game.sln
 # 4. Alternatively, after building, you can run the game directly:
 cd bin/btl3_game/debug
 btl3_game.exe
+
