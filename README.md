@@ -1,4 +1,4 @@
-# 🎮 [Your Game Title]
+# 🎮 Dune: Sand World
 
 A 2D game developed using **C++** and **Cocos2d-x**.  
 This project was created to learn new technologies and practice game development skills.
@@ -71,4 +71,5 @@ btl3_game.sln
 # 4. Alternatively, after building, you can run the game directly:
 cd bin/btl3_game/debug
 btl3_game.exe
+
 
